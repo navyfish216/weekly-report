@@ -8,7 +8,7 @@
 
 `インライン表示`
 
-```java:Spring Bootアプリケーション起動用メインクラス
+```java Spring Bootアプリケーション起動用メインクラス
 @SpringBootApplication
 public class SandboxServiceApplication {
 
